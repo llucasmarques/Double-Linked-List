@@ -1,11 +1,3 @@
-/*
- * UFMT - Ciência da Computação
- * ED  1 - Prof. Ivairton
- * Aluno: Oséias Ayres Ferreira
- * Implementação de lista encadeada
- * 
- * 
- */
 
 #ifndef LISTA_C
 #define LISTA_C
