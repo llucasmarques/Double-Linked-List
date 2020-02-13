@@ -1,11 +1,4 @@
-/*
- * UFMT
- * Implementação da lista duplamente encadeada 
- * Aluno: Oséias Ayres Ferreira
- * Professor: Ivairton M. Santos
- * 
- * 
- */
+
 #include <stdio.h>
 #include <stdlib.h>
 
